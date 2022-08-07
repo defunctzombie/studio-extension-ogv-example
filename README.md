@@ -1,3 +1,3 @@
-# theora-example
+# studio-extension-ogv-example
 
-## _A Foxglove Studio Extension_
+Example Studio Extension showing how to use [ogv.js](https://github.com/brion/ogv.js/) which uses wasm from emscripten.
